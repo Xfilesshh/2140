@@ -1,0 +1,8 @@
+7
+apple = -3 4 +
+beet = 10 30 + apple apple + /
+apple = 16  6 -  8 3 -  /
+cherry = 16  beet 4 - 8 / - apple +
+dandelion4 = 3 e +
+23skidoo = 13
+constantinople 1 1+
